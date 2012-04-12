@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/3295200/alertdialog-builder-using-layout-how-do-i-get-values-of-edittexts
+
+http://stackoverflow.com/questions/3426917/how-to-add-two-edit-text-fields-in-an-alert-dialog
+
+http://code.google.com/p/rxwen-blog-stuff/source/browse/trunk/android/streaming_audio/src/rmd/media/StreamingAudio/UdpStream.java

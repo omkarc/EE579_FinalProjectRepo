@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ProjectActivity!</string>
+    <string name="app_name">Project</string>
+    <string-array name="fields">
+        <item >Connect/Disconnect</item>
+        <item >Friends Online</item>
+        <item >My Favourites</item>
+        <item >Request a File</item>
+        <item >&quot;Search Online</item>
+        <item >My Activity</item>
+        <item >Upload to Server</item>
+    </string-array>
+
+</resources>
