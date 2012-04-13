@@ -91,6 +91,15 @@ public class Client {
 	  
 	  }
 	  
+	 
+		  
+		  
+		  
+		  
+		  
+	
+	  
+	  
 	  
 //method to close the socket when "END" is received from the client 
 	  public boolean closeConnection() {

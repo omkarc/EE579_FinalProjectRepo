@@ -25,7 +25,7 @@ public Packet(String msg) throws IOException {
 
  
    //this method describes what packet is sent when client asks for certain file.
-	if( msg.equalsIgnoreCase("GET"))
+	/*if( msg.equalsIgnoreCase("GET"))
 	  {
 	   String fromUser;
 	   System.out.println("Enter the Index Number of File :");
@@ -40,7 +40,7 @@ public Packet(String msg) throws IOException {
 	  
 	   }
 	  
-	  } 
+	  } */
   this.message=msg;
   msgLength = message.length();
   
