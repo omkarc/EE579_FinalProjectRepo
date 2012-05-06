@@ -5,5 +5,7 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/edu.usc.anrg.ee579.diagnostic"/>
+	<classpathentry kind="lib" path="C:/EE579/workspace/Base64Testing/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/EE579/workspace/Base64Testing/commons-io-2.2.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

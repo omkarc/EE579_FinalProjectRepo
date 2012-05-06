@@ -12,5 +12,6 @@
         <item >My Activity</item>
         <item >Upload to Server</item>
     </string-array>
+    <item type="integer" name="flag">1</item>
 
 </resources>

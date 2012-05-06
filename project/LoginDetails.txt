@@ -1,2 +1,6 @@
 *
-himanshu,himanshg@usc.edu,null
+max,max@usc.edu,/192.168.0.12
+*
+paul,paul@gmail.com,/207.151.243.37
+*
+john,john@usc.edu,/192.168.0.10
