@@ -7,7 +7,7 @@ import java.nio.ByteBuffer;
 
 
 
-public class Packet extends Protocol {
+public class Packet1 extends Protocol {
 
 
 public ByteBuffer buffer;
@@ -19,7 +19,7 @@ public static int[] ArrayOfIndex = new int[20];
 
 //the following method describes how the packet is composed before it is sent to thr server
 
-public Packet(String msg) throws IOException {    
+public Packet1(String msg) throws IOException {    
   
 
  
@@ -51,6 +51,8 @@ public Packet(String msg) throws IOException {
   buffer.putInt(msgLength);
   
       byte[] bytes = message.getBytes("ASCII");
+      
+      
       buffer.put(bytes,0,msgLength);
       
      
@@ -66,7 +68,7 @@ public Packet(String msg) throws IOException {
 		
 		  }
             
-public Packet() {
+public Packet1() {
 	
 }
 
